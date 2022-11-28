@@ -2,7 +2,7 @@
 title:               GIT BLOG
 tagline:             'Choi yeon woo'
 description:         'Hello! Here is blog of Choi yeon woo. Read my posts and give some comments for me!! I hope you enjoy my writings!!'
-url:                 http://yeonwoochoi0.github.io
+url:                 ''
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -19,7 +19,6 @@ plugins:
 
 # Custom vars
 version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
 comment:
   provider: "disqus"
   disqus:
