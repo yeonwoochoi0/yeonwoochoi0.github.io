@@ -9,7 +9,7 @@ comments: True
 - 분산관리 시스템
 - 빠른 속도
 - 오픈소스 형식
-- [repository] : https://git.kernel.org/pub/scm/git/git.git
+- [저장소](https://git.kernel.org/pub/scm/git/git.git)
 
 ## Git 명령어
 - git init : 현재 작업중인 디렉토리를 git 저장소로 지정
