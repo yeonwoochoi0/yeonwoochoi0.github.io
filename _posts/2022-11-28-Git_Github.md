@@ -3,7 +3,7 @@ layout: post
 title:  "Git and Github"
 date:   2022-11-28 23:04:20 +0900
 categories: git github
-comments: true
+comments: True
 ---
 ## Git
 - 분산관리 시스템
@@ -17,8 +17,8 @@ comments: true
 - git commit : 새로운 commit 생성
 - git log : commit 기록 확인
 
-### Git branch
+## Git branch
 코드 흐름을 분산시키기 위한 것
 
-### Github
+## Github
 협업을 위한 원격 저장소
