@@ -2,7 +2,7 @@
 title:               GIT BLOG
 tagline:             'Choi yeon woo'
 description:         'Hello! Here is blog of Choi yeon woo. Read my posts and give some comments for me!! I hope you enjoy my writings!!'
-url:                 ''
+url:                 'https://yeonwoochoi0.github.io'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
