@@ -6,10 +6,12 @@
 그 후, repository의 주소를 복사해서 cmd 창에서 local repository에 git clone 명령어를 이용해 연동한다.
 
 
+
 ## Markdown
 
 파일을 작성할 때 일반 텍스트로 서식 있는 문서를 작성하기 위해 마크다운을 사용한다.
 여러가지 마크다운 문법을 익힌 후 index.html을 작성한다.
+
 
 
 
@@ -20,6 +22,7 @@ git commit -m 명령어로 파일을 commit한다. 이때 -m은 메세지를 남
 git push로 원격 저장소에 반영한다. 이때 Github와 연결을 하기 위해 토큰을 생성해 연결한다.
 
 위 과정을 완료하면 [페이지](https://yeonwoochoi0.github.io)에서 작성한 index.html이 뜬다.
+
 
 
 ## Jekyll
@@ -34,9 +37,13 @@ bundle exec jekyll serve 명령어를 이용해 Jekyll을 실행한다.
 
 위의 commit 과정을 따라 진행하면, [사이트](https://yeonwoochoi0.github.io)에 반영된다.
 
+
+
 ## Post
 
 2022-11-28-Git_Github.md를 git과 github에 대해 배운 내용을 바탕으로 markdown 형식으로 작성한 후 commit 과정을 따라 반영시킨다. 
+
+
 
 ## Theme
 
@@ -49,6 +56,8 @@ _layout/default.html을 변형하여 색을 테마 제작자의 설명을 참고
 _includes/sidebar.html에서 필요한 사이드바만을 선택하여 이를 제외한 다른 것을 지운다.
 위의 commit 과정을 진행한다.
 
+
+
 ## Comments
 
 다양한 댓글 삽입 사이트들 중 [Disqus](https://disqus.com)를 사용한다.
@@ -57,6 +66,8 @@ _config.yml에 댓글에 대한 key와 value를 추가한다.
 그 후 disqus 홈페이지에Installation에서 jekyll을 선택하면 보이는 코드를 복사한다.
 var로 시작하는 코드의 주석을 제거한 후, 코드를 추가한다.
 s.src가 잘 지정되어 있는지 확인한다.
+
+
 
 ## Error
 오류가 발생하여 댓글이 나오지 않는 현상을 겪었다.
