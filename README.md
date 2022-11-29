@@ -21,7 +21,7 @@ git status 명령어로 현재 상태를 확인 후 git add 명령어로 작성�
 git commit -m 명령어로 파일을 commit한다. 이때 -m은 메세지를 남기는 명령어이다.
 git push로 원격 저장소에 반영한다. 이때 Github와 연결을 하기 위해 토큰을 생성해 연결한다.
 
-위 과정을 완료하면 [페이지](https://yeonwoochoi0.github.io)에서 작성한 index.html이 뜬다.
+위 과정을 완료하면 [페이지](https://yeonwoochoi0.github.io)에 작성한 index.html이 뜬다.
 
 
 
