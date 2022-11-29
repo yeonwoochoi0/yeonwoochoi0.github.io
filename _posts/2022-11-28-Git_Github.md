@@ -3,7 +3,7 @@ layout: post
 title:  "Git and Github"
 date:   2022-11-28 23:04:20 +0900
 categories: git github
-comments: True
+comments: true
 ---
 ## Git
 - 분산관리 시스템
